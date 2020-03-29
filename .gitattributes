@@ -1,0 +1,5 @@
+*.html linguist-detectable=false
+*.json linguist-detectable=false
+*.md linguist-detectable=false
+*.raml linguist-detectable=false
+*.java linguist-detectable=true
